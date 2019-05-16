@@ -1,0 +1,15 @@
+{
+  "name": "heepay-doc",
+  "version": "1.0.0",
+  "description": "> heepay doc",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "node_modules/.bin/serve docs -l 8000"
+  },
+  "devDependencies": {
+    "serve": "^11.0.0"
+  },
+  "author": "zyy"
+}
